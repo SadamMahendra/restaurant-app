@@ -41,6 +41,10 @@
 .restaurant-review__detail p {
   overflow: hidden;
 }
+
+.restaurant-review__detail h4 {
+  overflow: hidden;
+}
 .not-found__like {
   text-align: center;
   margin-top: 30vh;
