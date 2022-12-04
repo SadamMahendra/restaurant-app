@@ -1,0 +1,48 @@
+.restaurant {
+  width: 100%;
+  max-width: 800px;
+  margin: 30px auto;
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.restaurant-detail__image {
+  width: 100%;
+  border-radius: 8px 8px 0 0;
+}
+.restaurant-detail__content {
+  padding: 20px;
+}
+.restaurant-detail__list {
+  margin: 8px 0;
+}
+.restaurant-detail__item {
+  border-radius: 5px;
+  font-size: 16px;
+  display: inline-block;
+  background-color: #2a3990;
+  color: #fff;
+  margin-top: 10px;
+  margin-bottom: 8px;
+  padding: 8px;
+}
+.restaurant-description__info {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.restaurant-review__detail {
+  padding: 19px 31px 17px 20px;
+  background-color: #2a3990;
+  color: #fff;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+.restaurant-review__detail p {
+  overflow: hidden;
+}
+.not-found__like {
+  text-align: center;
+  margin-top: 30vh;
+  color: #2a3990;
+}
