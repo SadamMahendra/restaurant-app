@@ -2,4 +2,4 @@
 
 npm run build-serve 
 
-restaurant-app-sadam.netlify.app
+<a href"restaurant-app-sadam.netlify.app" target="_blank">netlify</a>
